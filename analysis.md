@@ -7,7 +7,7 @@ This document presents the observations, analysis, and key findings from the Wi-
 # 1. Router & Network Configuration
 
 ### Key Observations
-- The Wi-Fi network operates on **(insert channel)**.
+- The Wi-Fi network operates on **Operating Channel: 52**.
 - The router uses **WPA2/WPA3** security.
 - Frequency band detected: **2.4 GHz / 5 GHz**.
 - BSSID indicates a standard home/office access point.
@@ -42,12 +42,12 @@ This document presents the observations, analysis, and key findings from the Wi-
 - Highest speed and lowest latency
 - Minimal packet loss
 
-### Location B (adjacent room)
+### Location B (In the Kitchen)
 - Moderate signal: **(e.g., -60 dBm)**
 - Slightly reduced speed
 - Latency slightly increased
 
-### Location C (farther location)
+### Location C (In the Corridor)
 - Weak signal: **(e.g., -75 dBm or worse)**
 - Speed and stability reduced significantly
 - Interference becomes more noticeable
