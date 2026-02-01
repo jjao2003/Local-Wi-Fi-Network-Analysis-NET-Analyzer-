@@ -23,10 +23,10 @@ This document presents the observations, analysis, and key findings from the Wi-
 # 2. Performance Metrics
 
 ### Speed Test Results
-- Download speed: **(insert value)** Mbps  
-- Upload speed: **(insert value)** Mbps  
-- Latency: **(insert value)** ms  
-- Jitter: **(insert value)** ms
+- Download speed: **24.7)** Mbps  
+- Upload speed: **29.0** Mbps  
+- Latency: **8** ms (Idle)
+- Jitter: **1)** ms
 
 ### Interpretation
 - Latency is acceptable for normal browsing and streaming.
