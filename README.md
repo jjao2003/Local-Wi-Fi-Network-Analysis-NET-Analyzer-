@@ -1,56 +1,53 @@
-# LocalWi-Fi Network Analysis (NET Analyzer)
+# Local Wi-Fi Network Analysis Using NET Analyzer
 
 ## Course
-Networking – Exercise 3.2  
+Computer Networks – Exercise 3.2  
 Savonia University of Applied Sciences
 
 ## Student
 **Agozie Joel Onuigbo**
 
 ## Objective
-This assignment analyzes a local Wi-Fi network using the NET Analyzer mobile application.  
-The aim is to understand Wi-Fi performance, detect issues, and propose optimization solutions.
+The objective of this assignment is to analyze a local Wi-Fi network using the NET Analyzer mobile application.  
+The analysis focuses on network performance, configuration parameters, signal coverage, interference, and optimization opportunities.
 
 ---
 
-# 1. Tools Used
-- **NET Analyzer Mobile App** (Android/iOS)
-- Mobile phone for scanning and measurements
-- GitHub for documentation
-- (Optional) Speedtest by Ookla for network speed verification
+## Tools Used
+- NET Analyzer Mobile Application (Android)
+- Smartphone with Wi-Fi connectivity
+- GitHub for documentation and submission
 
 ---
 
-# 2. Measurement Setup
-Measurements were taken:
-- While connected to the Wi-Fi network under test
-- At multiple physical locations within the building
-- Using the same mobile device for consistency
-
-Screenshots are stored in the `/screenshots/` folder.
+## Measurement Setup
+- The mobile device was connected to the Wi-Fi network under test.
+- Measurements were taken using NET Analyzer.
+- Additional tests were performed at different physical locations within the building.
+- Screenshots were captured to support all observations.
 
 ---
 
-# 3. Collected Data
-All collected data (network parameters, performance values, nearby networks, signal strengths) are documented in:
+## Repository Contents
 
-- [`data-tables.md`](data-tables.md)
-
----
-
-# 4. Analysis and Observations
-A detailed discussion of findings—including channel usage, latency behaviour, signal variations, interference, and congestion—is documented in:
-
-- [`analysis.md`](analysis.md)
+- **README.md** – Main documentation
+- **analysis.md** – Findings, troubleshooting, and discussion
+- **recommendations.md** – Performance improvement proposals
+- **/data/** – Collected measurement data and tables
+- **/screenshots/** – NET Analyzer screenshots
 
 ---
 
-# 5. Proposed Solutions
-Optimizations and improvement recommendations (channel changes, router adjustments, interference reduction, etc.) are included in:
-
-- [`recommendations.md`](recommendations.md)
+## Summary
+This repository documents a complete Wi-Fi network analysis, covering:
+- Network speed and latency
+- Signal strength variations
+- Channel usage and interference
+- Router configuration details
+- Practical improvement recommendations
 
 ---
 
-# 6. Folder Structure
-
+## Conclusion
+The results show that Wi-Fi performance is highly dependent on signal strength, channel congestion, and router placement.  
+With proper optimization, network reliability and performance can be significantly improved.
